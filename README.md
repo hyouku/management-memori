@@ -1,3 +1,3 @@
 ## hasil running monoprogramming
 
-![ss](public\hasil_running.png)
+![ss_1](public\hasil_running.png)
