@@ -4,4 +4,4 @@
 
 ## hasil running multiprogramming
 
-![ss_1](public\hasil_multiprogramming.png)
+![ss_2](public\hasil_multiprogramming.png)
